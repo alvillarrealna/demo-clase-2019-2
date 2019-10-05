@@ -15,8 +15,8 @@ bla bla blad
 
 ## Subtitulo 3
 
-[] Lista de chequeo 1
-[] Lista de chequeo 2
+[ ] Lista de chequeo 1
+[ ] Lista de chequeo 2
 
 ## Subtitulo 4
 
