@@ -23,3 +23,5 @@ bla bla blad
 Ecuación:
 
 $$ x^2 $$
+
+Este es el link [www.google.com]
